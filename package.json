@@ -1,0 +1,23 @@
+{
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "bot per il meteo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACipo95/RPG.git"
+  },
+  "author": "acipo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACipo95/RPG/issues"
+  },
+  "homepage": "https://github.com/ACipo95/RPG#readme",
+  "dependencies": {
+    "telegram-api": "^4.1.0"
+  },
+  "devDependencies": {}
+}
